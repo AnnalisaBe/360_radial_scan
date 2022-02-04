@@ -5,7 +5,7 @@
 #Title: Local single wound response
 
 #Content: given data output of the 360 scan fiji macro
-#calculates average profile od teh sginal at each time point across all radii
+#calculates average profile of the sginal at each time point across all radii
 #detects peak and front of the wave
 #outputs polynomials to describe the distance reached by the signal over time and its velcoity over time for each replicate of each genotype
 
